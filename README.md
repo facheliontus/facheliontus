@@ -1,5 +1,5 @@
 # 💫 About Me:
-11.Sınıf Bilişim Öğrencisi. Web geliştirme, otonom sistemler üzerine projeler geliştiriyorum. Yeni teknolojiler öğrenmeye her zaman açığım
+12.Sınıf Bilişim Öğrencisi. Web geliştirme, otonom sistemler üzerine projeler geliştiriyorum. Yeni teknolojiler öğrenmeye her zaman açığım
 
 
 # 💻 Tech Stack:
